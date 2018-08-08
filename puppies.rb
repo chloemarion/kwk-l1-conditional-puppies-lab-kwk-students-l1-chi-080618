@@ -19,7 +19,7 @@ def less_puppies(num_puppies)
     puts "Slow Down
   else num_puppies > 3 
   puts "Get back on your animal restriction"
-end
+ end
 end
 
 
