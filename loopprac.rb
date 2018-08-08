@@ -11,7 +11,7 @@
 def friends 
   num_friends = 0 
   until num_friends == 12
-  puts "I have #{num friends} frannnnnns."
+   puts "I have #{num friends} frannnnnns."
   num_friends += 1 
  end 
 end
